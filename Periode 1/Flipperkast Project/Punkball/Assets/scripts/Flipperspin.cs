@@ -9,12 +9,12 @@ public class Flipperspin : MonoBehaviour {
 
 
 	void Start () {
-        hinge = GetComponent<HingeJoint>();
+        hinge = GetComponent<HingeJoint>(); //dit roept een HingeJoint op.
 	}
 	
 	// Update is called once per frame
 	void FixedUpdate () {
-        if (Input.GetKeyDown("m"))
+        if (Input.GetKeyDown("m")) //Dit beweegt de HingeJoint d.m.v de M knop.
         {
             Vector3 f = transform.up * flipperstrength;
             Vector3 p = (transform.right) + transform.position * pushforce;

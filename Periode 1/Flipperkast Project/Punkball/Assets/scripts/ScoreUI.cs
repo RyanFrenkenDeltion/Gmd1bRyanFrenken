@@ -5,14 +5,10 @@ public class ScoreUI : MonoBehaviour {
     public int points;
     public Score scoreScript;
        
-	// Use this for initialization
+	// dit voegt punten toe als een object word geraakt door de ball
 	void OnCollisionEnter (Collision x) {
         if(x.transform.tag == "Ball")
             scoreScript.ChangeScore(points);
 	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
+
 }

@@ -10,11 +10,11 @@ public class FlipperSpin2 : MonoBehaviour {
 
     void Start()
     {
-        hinge = GetComponent<HingeJoint>();
+        hinge = GetComponent<HingeJoint>(); //dit roept de HingeJoint op
     }
 
     // Update is called once per frame
-    void FixedUpdate()
+    void FixedUpdate() // dit zorgt ervoor dat de hinge d.m.v Z word bewogen.
     {
         if (Input.GetKeyDown("z"))
         {
