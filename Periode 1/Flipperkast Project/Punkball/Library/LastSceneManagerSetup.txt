@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Punkball - Main.unity
-  isLoaded: 1
-  isActive: 1
