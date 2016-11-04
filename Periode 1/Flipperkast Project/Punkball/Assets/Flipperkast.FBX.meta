@@ -1,0 +1,281 @@
+fileFormatVersion: 2
+guid: d2eb52f9d3e39a84388179f6aa4f7e2b
+timeCreated: 1477601188
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bonus muur
+    100002: Bottem
+    100004: Bottem flipper 1
+    100006: Box001
+    100008: //RootNode
+    100010: G. bumper 1
+    100012: G. bumper 2
+    100014: G. bumper 3
+    100016: G. Bumper 4
+    100018: k. bumper 1
+    100020: k. bumper 2
+    100022: k. bumper 3
+    100024: k. bumper 4
+    100026: L. barier
+    100028: L. hook
+    100030: Poortje muur 007
+    100032: Poortje muur 008
+    100034: Poortje muur 1
+    100036: Poortje muur 2
+    100038: Poortje muur 3
+    100040: Poortje muur 4
+    100042: Poortje muur 5
+    100044: Poortje muur 6
+    100046: R. barier
+    100048: R. hook
+    100050: R.K bottem bumper
+    100052: Shield 002
+    100054: Shield001
+    100056: Shield002
+    100058: Spinner 001
+    100060: Spinner 002
+    100062: Spinner 003
+    100064: Spinner 004
+    100066: Spinner 005
+    100068: Spinner 006
+    100070: Spinner 007
+    100072: Target 1
+    100074: Target 2
+    100076: Target 3
+    100078: Target 4
+    100080: Target 5
+    100082: template
+    100084: Walls
+    400000: Bonus muur
+    400002: Bottem
+    400004: Bottem flipper 1
+    400006: Box001
+    400008: //RootNode
+    400010: G. bumper 1
+    400012: G. bumper 2
+    400014: G. bumper 3
+    400016: G. Bumper 4
+    400018: k. bumper 1
+    400020: k. bumper 2
+    400022: k. bumper 3
+    400024: k. bumper 4
+    400026: L. barier
+    400028: L. hook
+    400030: Poortje muur 007
+    400032: Poortje muur 008
+    400034: Poortje muur 1
+    400036: Poortje muur 2
+    400038: Poortje muur 3
+    400040: Poortje muur 4
+    400042: Poortje muur 5
+    400044: Poortje muur 6
+    400046: R. barier
+    400048: R. hook
+    400050: R.K bottem bumper
+    400052: Shield 002
+    400054: Shield001
+    400056: Shield002
+    400058: Spinner 001
+    400060: Spinner 002
+    400062: Spinner 003
+    400064: Spinner 004
+    400066: Spinner 005
+    400068: Spinner 006
+    400070: Spinner 007
+    400072: Target 1
+    400074: Target 2
+    400076: Target 3
+    400078: Target 4
+    400080: Target 5
+    400082: template
+    400084: Walls
+    2300000: Bonus muur
+    2300002: Bottem
+    2300004: Bottem flipper 1
+    2300006: Box001
+    2300008: G. bumper 1
+    2300010: G. bumper 2
+    2300012: G. bumper 3
+    2300014: G. Bumper 4
+    2300016: k. bumper 1
+    2300018: k. bumper 2
+    2300020: k. bumper 3
+    2300022: k. bumper 4
+    2300024: L. barier
+    2300026: L. hook
+    2300028: Poortje muur 007
+    2300030: Poortje muur 008
+    2300032: Poortje muur 1
+    2300034: Poortje muur 2
+    2300036: Poortje muur 3
+    2300038: Poortje muur 4
+    2300040: Poortje muur 5
+    2300042: Poortje muur 6
+    2300044: R. barier
+    2300046: R. hook
+    2300048: R.K bottem bumper
+    2300050: Shield001
+    2300052: Shield002
+    2300054: Spinner 001
+    2300056: Spinner 002
+    2300058: Spinner 003
+    2300060: Spinner 004
+    2300062: Spinner 005
+    2300064: Spinner 006
+    2300066: Spinner 007
+    2300068: Target 1
+    2300070: Target 2
+    2300072: Target 3
+    2300074: Target 4
+    2300076: Target 5
+    2300078: template
+    2300080: Walls
+    3300000: Bonus muur
+    3300002: Bottem
+    3300004: Bottem flipper 1
+    3300006: Box001
+    3300008: G. bumper 1
+    3300010: G. bumper 2
+    3300012: G. bumper 3
+    3300014: G. Bumper 4
+    3300016: k. bumper 1
+    3300018: k. bumper 2
+    3300020: k. bumper 3
+    3300022: k. bumper 4
+    3300024: L. barier
+    3300026: L. hook
+    3300028: Poortje muur 007
+    3300030: Poortje muur 008
+    3300032: Poortje muur 1
+    3300034: Poortje muur 2
+    3300036: Poortje muur 3
+    3300038: Poortje muur 4
+    3300040: Poortje muur 5
+    3300042: Poortje muur 6
+    3300044: R. barier
+    3300046: R. hook
+    3300048: R.K bottem bumper
+    3300050: Shield001
+    3300052: Shield002
+    3300054: Spinner 001
+    3300056: Spinner 002
+    3300058: Spinner 003
+    3300060: Spinner 004
+    3300062: Spinner 005
+    3300064: Spinner 006
+    3300066: Spinner 007
+    3300068: Target 1
+    3300070: Target 2
+    3300072: Target 3
+    3300074: Target 4
+    3300076: Target 5
+    3300078: template
+    3300080: Walls
+    4300000: Box001
+    4300002: template
+    4300004: Walls
+    4300006: L. barier
+    4300008: R. barier
+    4300010: G. bumper 2
+    4300012: G. bumper 3
+    4300014: G. Bumper 4
+    4300016: k. bumper 1
+    4300018: k. bumper 2
+    4300020: k. bumper 3
+    4300022: k. bumper 4
+    4300024: G. bumper 1
+    4300026: Target 1
+    4300028: Target 2
+    4300030: Target 3
+    4300032: Target 4
+    4300034: Target 5
+    4300036: Bonus muur
+    4300038: Bottem flipper 1
+    4300040: R.K bottem bumper
+    4300042: R. hook
+    4300044: L. hook
+    4300046: Poortje muur 1
+    4300048: Poortje muur 2
+    4300050: Poortje muur 3
+    4300052: Poortje muur 4
+    4300054: Poortje muur 5
+    4300056: Poortje muur 6
+    4300058: Poortje muur 007
+    4300060: Poortje muur 008
+    4300062: Spinner 001
+    4300064: Spinner 002
+    4300066: Spinner 003
+    4300068: Spinner 004
+    4300070: Spinner 005
+    4300072: Spinner 006
+    4300074: Spinner 007
+    4300076: Shield001
+    4300078: Shield002
+    4300080: Bottem
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
