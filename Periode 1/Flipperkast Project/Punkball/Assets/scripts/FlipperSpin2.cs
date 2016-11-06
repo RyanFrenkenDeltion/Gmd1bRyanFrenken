@@ -14,9 +14,9 @@ public class FlipperSpin2 : MonoBehaviour {
     }
 
     // Update is called once per frame
-    void FixedUpdate() // dit zorgt ervoor dat de hinge d.m.v Z word bewogen.
+    void Update() // dit zorgt ervoor dat de hinge d.m.v Z word bewogen.
     {
-        if (Input.GetKeyDown("z"))
+        if (Input.GetKeyDown(KeyCode.LeftArrow))
         {
             Vector3 f = -transform.up * flipperstrength;
             Vector3 p = (transform.right) + transform.position * pushforce;

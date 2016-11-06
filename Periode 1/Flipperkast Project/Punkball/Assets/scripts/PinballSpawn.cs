@@ -8,7 +8,7 @@ public class PinballSpawn : MonoBehaviour
     public GameObject prefab;
     public GameObject pinballSpawn;
     private GameObject currentball;
-    
+    public AudioClip ballFireAudio;
     
     
     
@@ -21,7 +21,7 @@ public class PinballSpawn : MonoBehaviour
             GameObject.Find("Canvas End screen").GetComponent<CanvasGroup>().alpha = 1; // dit maakt de afbeelding met de eind scherm zichtbaar waneer je levens(lifetaker int) op 0 staan.
 
         }
-        if(Input.GetButtonDown("Fire1"))
+        if(Input.GetButtonDown("Jump"))
         {
             SpawnPinball(); //Dit spawned een ball als je op de linkse muisknop drukt.
         }
@@ -30,6 +30,7 @@ public class PinballSpawn : MonoBehaviour
 
     public void SpawnPinball()
     {
+        AudioSource.PlayClipAtPoint(ballFireAudio, transform.position);
         if (currentball != null)
             return;
         // dit zorgt ervoor dat er maar 1 bal in het spel kan zijn tegelijkertijd.

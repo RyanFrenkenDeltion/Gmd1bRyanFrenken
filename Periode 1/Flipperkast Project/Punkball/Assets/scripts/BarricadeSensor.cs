@@ -14,7 +14,7 @@ public class BarricadeSensor : MonoBehaviour {
         StartCoroutine(MaterialSwitch());
 
         print(1);
-        if (visible) //zet alles onzichtbaar
+        if (visible) //zet alles onzichtbaar (Credits naar Jan (De man die alles kan) voor het helpen.)
         {
             for (int i = 0; i < obstruction.Length; i++) //i is eerst 0, dan 1 enz enz tot de lengte van de lijst
             {

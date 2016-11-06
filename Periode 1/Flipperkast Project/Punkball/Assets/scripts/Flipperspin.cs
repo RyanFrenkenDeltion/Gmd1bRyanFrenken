@@ -13,8 +13,8 @@ public class Flipperspin : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void FixedUpdate () {
-        if (Input.GetKeyDown("m")) //Dit beweegt de HingeJoint d.m.v de M knop.
+	void Update () {
+        if (Input.GetKeyDown(KeyCode.RightArrow)) //Dit beweegt de HingeJoint d.m.v de M knop.
         {
             Vector3 f = transform.up * flipperstrength;
             Vector3 p = (transform.right) + transform.position * pushforce;
